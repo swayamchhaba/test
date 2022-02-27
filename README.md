@@ -1,4 +1,4 @@
 # test
-learning git
-this is modified readme
-Changes done by dad
+1. learning git
+2. this is modified readme
+3. Changes done by dad
