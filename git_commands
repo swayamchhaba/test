@@ -1,0 +1,25 @@
+1. git clone - used to clone reprository from github to local
+	for eg: git clone git@github.com:swayamchhaba/test.git
+
+2. git status - to see the current status
+
+3. git diff - to see the changes which is not committed
+
+4. git add <file name> - add a file to commit
+	git add . - adds all the file
+
+5. git commit -m "message to be typed" - commits the file directly without nano editor
+
+6. git push origin <branch name> - push changes to remote
+
+7. git branch <branch name> - to create a new branch from the currently active branch
+
+8. git branch - show all the branches. current will be marked with *
+
+9. git branch -d <branch name> - delete the branch
+
+10. git branch -D <branch name> - delete the branch forcefully
+
+11. git checkout <branch name> - switch to branch
+
+12. git pull - sync local with remote
